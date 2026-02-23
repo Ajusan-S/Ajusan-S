@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-## 👋 Hi, I'm Ajusan Subaskaran<br><br>🎓 Student | 💻 Aspiring Developer | 🌍 Sri Lanka  <br><br>I’m passionate about technology, problem-solving, and continuous learning.  <br>Currently exploring web development, programming fundamentals, and software tools.<br><br>### 🚀 What I'm Learning<br>- HTML & CSS  (Front-end Development)<br>- JavaScript  <br>- Kali & Ethical Hacking <br>- Git & GitHub  <br><br>### 🎯 Goals<br>- Build real-world projects  <br>- Improve problem-solving skills  <br>- Contribute to open-source projects  <br>- Become a skilled software developer  <br><br>### 📫 Connect With Me<br>- GitHub: https://github.com/Ajusan-S<br><br>> "Consistency is more important than perfection."
+## 👋 Hi, I'm Ajusan Subaskaran<br><br>🎓 Student | 💻 Aspiring Developer | 🌍 Sri Lanka  <br><br>I’m passionate about technology, problem-solving, and continuous learning.  <br>Currently exploring web development, programming fundamentals, and software tools.<br><br>### 📫 Connect With Me<br>- GitHub: https://github.com/Ajusan-S<br><br>> "Consistency is more important than perfection."
 
 
 ## 🌐 Socials:
