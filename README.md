@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Ajusan-S/Ajusan-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-## 👋 Hi, I'm Ajusan Subaskaran<br><br>🎓 Student | 💻 Aspiring Developer | 🌍 Sri Lanka  <br><br>I’m passionate about technology, problem-solving, and continuous learning.  <br>Currently exploring web development, programming fundamentals, and software tools.<br><br>### 📫 Connect With Me<br>- GitHub: https://github.com/Ajusan-S<br><br>> "Consistency is more important than perfection."
-
-
+## 👋 Hi, I'm Ajusan Subaskaran<br><br>🎓 Student | 💻 Aspiring Developer | 🌍 Sri Lanka  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ajclixs/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ajusan-subaskaran/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajltron10@gmail.com) 
 
